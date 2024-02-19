@@ -1,1 +1,22 @@
-/* Codul tau CSS aici */
+button{
+    padding: 10px;
+    color:white;
+    border:none;
+    border-radius: 4px;
+    cursor:pointer;
+}
+
+#submit-btn{
+    background-color:#007bff;
+}
+#new-question-btn{
+    background-color: goldenrod;
+}
+button:hover{
+    box-shadow: 0 0 7px 0 rgba(0,0,0,0.3);
+}
+ul{
+    list-style-type: none;
+    padding: 5px;
+    margin: 7px;
+}
